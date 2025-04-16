@@ -1,0 +1,4 @@
+rioxarray==0.18.2
+geopandas==1.0.1
+matplotlib==3.10.1
+#contextily==1.6.2
