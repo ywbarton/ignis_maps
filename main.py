@@ -6,7 +6,7 @@ import geopandas as gpd
 from matplotlib import pyplot
 from os import listdir
 import re
-import contextily as cx
+#import contextily as cx
 from matplotlib.patches import Patch
 from datetime import datetime, timedelta
 from pathlib import Path
